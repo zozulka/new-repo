@@ -1,3 +1,0 @@
-files:
-  - source: /Example.json
-    translation: /translation/test/pug/%two_letters_code%_Example.json

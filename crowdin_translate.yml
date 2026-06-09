@@ -1,0 +1,3 @@
+files:
+  - source: /Example.json
+    translation: /translation/test/cat/%two_letters_code%_Example.json
